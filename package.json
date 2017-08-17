@@ -1,0 +1,19 @@
+{
+  "name": "mathmodule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmcgarrah/HW04-mathmodule.git"
+  },
+  "author": "Trev McG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmcgarrah/HW04-mathmodule/issues"
+  },
+  "homepage": "https://github.com/tmcgarrah/HW04-mathmodule#readme"
+}
